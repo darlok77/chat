@@ -1,0 +1,27 @@
+{
+  "name": "chat",
+  "version": "1.0.0",
+  "description": "\"# chat\"",
+  "main": "index.js",
+  "scripts": {
+    "install & start": "npm i && browserify public/index.js -o public/bundle.js && node app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/darlok77/chat.git"
+  },
+  "author": "Guillaume DALLEAU",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/darlok77/chat/issues"
+  },
+  "homepage": "https://github.com/darlok77/chat#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "mongodb": "^3.0.6",
+    "socket.io": "^2.1.0"
+  },
+  "devDependencies": {
+    "browserify": "^16.2.0"
+  }
+}
