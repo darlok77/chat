@@ -10,6 +10,6 @@ Installer `nodejs` & `npm` & `mongodb`
 
 # Comment l'utiliser
 
-`git clone https://github.com/darlok77/chat.git`
-`npm run 'install & start'`
+`git clone https://github.com/darlok77/chat.git` 
+`npm run 'install & start'` 
 run your mongodb server
