@@ -12,4 +12,5 @@ Installer `nodejs` & `npm` & `mongodb`
 
 `git clone https://github.com/darlok77/chat.git`  
 `npm run 'install & start'`  
-run your mongodb server  
+ run your mongodb server  
+ run http://localhost:8080/
