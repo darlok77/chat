@@ -12,5 +12,4 @@ Installer `nodejs` & `npm` & `mongodb`
 
 `git clone https://github.com/darlok77/chat.git`  
 `npm run 'install & start'`  
-create your data base 'chat'  
 run your mongodb server  
