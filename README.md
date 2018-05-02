@@ -14,3 +14,11 @@ Installer `nodejs` & `npm` & `mongodb`
 `npm run 'install & start'`  
  run your mongodb server  
  run http://localhost:8080/
+
+## Table CHAT
+
+| CHAT | type
+| --- | --- 
+| _id | String
+|pseudo | String
+| message | String
